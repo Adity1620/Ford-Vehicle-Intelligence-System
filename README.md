@@ -451,7 +451,7 @@ FVIS uses a 4-layer mitigation approach:
 |---|---|
 | **System Prompt** | LLM is explicitly forbidden from using outside knowledge |
 | **Context Injection** | Only verified, retrieved chunks are passed to the LLM |
-| **Low Temperature** | Set to 0.1 — minimizes creative drift |
+| **Low Temperature** | Set to 0.2 — minimizes creative drift |
 | **Honest Fallback** | If context is insufficient, system says so instead of guessing |
 
 Additionally, all safety-critical answers (warning lights, overheating, brakes) automatically append a recommendation to consult a certified Ford technician.
