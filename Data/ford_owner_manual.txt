@@ -1,0 +1,83 @@
+# FORD UNIVERSAL OWNER MANUAL - CONSOLIDATED KNOWLEDGE BASE
+
+## 1. DASHBOARD WARNING SYMBOLS AND INDICATORS
+[COLOR SYSTEM OVERVIEW]
+- RED: Danger or serious malfunction. Stop the vehicle safely and turn off the engine immediately.
+- AMBER/YELLOW: System fault or action required soon. Drive with caution.
+- GREEN/BLUE: System status or informational; indicates a feature is currently active.
+
+[RED WARNINGS - URGENT]
+- [BRAKE SYSTEM]: Indicates the parking brake is on or brake fluid is low. If it stays on after releasing the brake, seek immediate service.
+- [ENGINE COOLANT TEMPERATURE]: Engine is overheating. Safely pull over and shut off the engine. Do not open the coolant cap while hot.
+- [ENGINE OIL PRESSURE]: Critically low oil pressure. Shut off the engine immediately to prevent permanent damage.
+- [CHARGING SYSTEM]: Battery or charging system fault. Turn off unnecessary electrical equipment and seek service.
+- [AIRBAG SYSTEM]: Supplemental Restraint System (SRS) fault. Airbags may not deploy in an accident.
+- [DOOR/HOOD/LIFTGATE AJAR]: One or more openings are not securely closed.
+
+[AMBER WARNINGS - CAUTION]
+- [WRENCH SYMBOL]: Powertrain, AWD, or 4WD fault. A problem is detected in the engine or drivetrain.
+- [CHECK ENGINE / SERVICE ENGINE SOON]: Malfunction in the engine or emissions system.
+- [ABS WARNING]: Anti-lock braking is disabled; standard braking remains functional.
+- [STABILITY CONTROL]: Flashes when active on slippery surfaces; remains lit if there is a system fault.
+- [LOW TIRE PRESSURE (TPMS)]: One or more tires are below safe pressure levels. Check and inflate to the PSI on the door jamb sticker.
+- [LOW FUEL]: Indicates fuel level is low (typically 1/16th to 1/8th of a tank remaining).
+- [BLIS/CROSS TRAFFIC]: Indicates a fault in the blind spot or radar-sensing systems.
+
+[GREEN/BLUE - STATUS]
+- [CRUISE CONTROL]: System is active or a speed has been set.
+- [AUTO START-STOP]: Green 'A' indicates the engine has shut down to save fuel.
+- [LANE KEEPING]: Indicates the system is active and tracking lane markings.
+- [HIGH BEAM]: Blue light indicates high beam headlights are active.
+
+---
+
+## 2. MAINTENANCE AND SERVICE REMINDERS
+[INTELLIGENT OIL-LIFE MONITOR]
+The vehicle calculates oil change intervals based on engine use and environment.
+- 'Oil Change Required' message: Change oil within 500 miles (800 km).
+- Note: The monitor must be manually reset after every oil change.
+
+[MONTHLY USER CHECKS]
+- Check engine oil level using the dipstick.
+- Verify function of all interior and exterior lights.
+- Inspect tires for proper pressure and uneven wear.
+- Check windshield washer fluid level.
+
+[SIX-MONTH CHECKS]
+- Inspect battery terminals for corrosion; clean if necessary.
+- Check safety belts and seat latches for proper operation.
+- Inspect the spare tire air pressure.
+
+[LONG-TERM SERVICE ITEMS]
+- Replace engine air filter: Every 30,000 miles (approx. 48,000 km).
+- Replace spark plugs: Every 100,000 miles (approx. 160,000 km).
+- Change transmission fluid: Every 150,000 miles (approx. 240,000 km).
+
+---
+
+## 3. BASIC TROUBLESHOOTING AND PROCEDURES
+[ENGINE FAILS TO START]
+1. Ensure the gear selector is fully in Park (P).
+2. For push-button start: Ensure the brake pedal is fully depressed.
+3. If the 'No Key Detected' message appears, place the key fob in the backup slot (usually in the center console).
+4. Check battery terminals for loose or corroded connections.
+
+[ENGINE OVERHEATING WHILE DRIVING]
+1. Turn off the air conditioning.
+2. Set the heater to the maximum temperature and highest fan speed.
+3. If the temperature does not decrease, pull over safely and shut down the engine.
+
+[JUMP STARTING PROCEDURE]
+1. Connect red (+) cable to the positive terminal of the discharged battery.
+2. Connect the other red (+) end to the booster battery's positive terminal.
+3. Connect black (-) cable to the booster battery's negative terminal.
+4. Connect the final black (-) cable to a grounded metal part of the engine (away from the battery and fuel lines) in the vehicle being jumped.
+
+[BATTERY RELEARN PROCESS]
+If the battery was recently disconnected or replaced, the engine and transmission may idle roughly or shift oddly. Drive the vehicle normally for 5-10 miles (8-16 km) to allow the computer systems to recalibrate.
+
+[POWER LIFTGATE ISSUES]
+If the liftgate fails to open or close:
+1. Check that the vehicle is in Park (P).
+2. Ensure there are no obstructions in the liftgate path.
+3. Check if the battery voltage is low.
