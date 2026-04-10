@@ -485,9 +485,3 @@ All data is synthetic, generated specifically for this assessment.
 | Data Processing | Pandas |
 | Containerization | Docker + Docker Compose |
 
----
-
-## Author
-
-**Aditya Venkatesh**  
-Assessment submission for **Sorim.AI — AI Engineer (Fresher)**
