@@ -21,8 +21,8 @@ app = FastAPI(
 # CORS must be added BEFORE routers
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],        # open for local dev
-    allow_credentials=False,    # must be False when allow_origins=["*"]
+    allow_origins=["*"],       
+    allow_credentials=False,   
     allow_methods=["*"],
     allow_headers=["*"],
 )
