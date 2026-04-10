@@ -410,7 +410,7 @@ r'(\d+|two|three|...|ten)\s*[-\s]?\s*seat'
 
 This makes the system **open-ended and robust** — any new seat count works automatically.
 
-### 7. Temperature = 0.1 for RAG
+### 7. Temperature = 0.2 for RAG
 
 Low temperature reduces creative drift in the LLM. In automotive advice, a creative answer is a dangerous answer — we want factual precision, not eloquence.
 
