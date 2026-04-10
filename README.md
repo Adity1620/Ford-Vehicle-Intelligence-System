@@ -1,11 +1,11 @@
-# 🚗 FVIS — Ford Vehicle Intelligence System
+# FVIS — Ford Vehicle Intelligence System
 
 > An AI-powered automotive knowledge assistant built for the **Sorim.AI Technical Assessment**.  
 > Answers questions about Ford vehicles using **Semantic Search**, **Retrieval-Augmented Generation (RAG)**, and **Rule-Based Recommendation Logic**.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Live Demo](#live-demo)
