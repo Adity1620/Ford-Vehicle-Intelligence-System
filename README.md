@@ -50,43 +50,7 @@ Frontend → http://localhost:5173
 
 ---
 
-## Architecture
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        React Frontend                           │
-│           Search Panel │ Ask Panel │ Recommender Panel          │
-└────────────────────────┬────────────────────────────────────────┘
-                         │ HTTP (axios)
-                         ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                      FastAPI Backend                            │
-│                                                                 │
-│    /search              /ask               /recommend           │
-│       │                  │                     │                │
-│       ▼                  ▼                     ▼                │
-│  ┌─────────┐     ┌──────────────┐     ┌──────────────────┐      │
-│  │  FAISS  │     │  FAISS +     │     │   Rule-Based     │      │
-│  │ Semantic│     │  GPT-4o-mini │     │   Attribute      │      │
-│  │ Search  │     │  RAG Pipeline│     │   Scoring +      │      │
-│  └────┬────┘     └──────┬───────┘     │   Regex Parser   │      │
-│       │                 │             └──────────────────┘      │
-│       └────────┬────────┘                                       │
-│                ▼                                                │
-│       ┌─────────────────┐                                       │
-│       │  FAISS Index    │                                       │
-│       │  85 vectors     │                                       │
-│       │  384-dim        │                                       │
-│       └────────┬────────┘                                       │
-│                ▼                                                │
-│       ┌─────────────────────────────┐                           │
-│       │       Knowledge Base        │                           │
-│       │  • Vehicle Specs   (CSV)    │                           │
-│       │  • Service Data    (CSV)    │                           │
-│       │  • Owner Manual    (TXT)    │                           │
-│       └─────────────────────────────┘                           │
-└─────────────────────────────────────────────────────────────────┘
-```
+![](/Ford Vehicle Intelligence System-architecture.png)
 
 ### Request Flow — `/ask` Endpoint (RAG Pipeline)
 
