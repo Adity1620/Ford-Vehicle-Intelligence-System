@@ -50,7 +50,9 @@ Frontend → http://localhost:5173
 
 ---
 
-![](/Ford Vehicle Intelligence System-architecture.png)
+## Architecture
+
+![FVIS Architecture](Ford%20Vehicle%20Intelligence%20System-architecture.png)
 
 ### Request Flow — `/ask` Endpoint (RAG Pipeline)
 
